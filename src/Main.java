@@ -102,6 +102,8 @@ public class Main {
         //question 06
         int []sortArray=sortedArray(marks);
         System.out.println("Sorted array : "+ Arrays.toString(sortArray));
+
+        //this comment is to try in the terminal
     }
 }
 
